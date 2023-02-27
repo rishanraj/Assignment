@@ -1,0 +1,8 @@
+E:\Medusind\CSharp\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe.config
+E:\Medusind\CSharp\Assignment_3\Assignment_3\bin\Debug\Assignment_3.exe
+E:\Medusind\CSharp\Assignment_3\Assignment_3\bin\Debug\Assignment_3.pdb
+E:\Medusind\CSharp\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.AssemblyReference.cache
+E:\Medusind\CSharp\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.SuggestedBindingRedirects.cache
+E:\Medusind\CSharp\Assignment_3\Assignment_3\obj\Debug\Assignment_3.csproj.CoreCompileInputs.cache
+E:\Medusind\CSharp\Assignment_3\Assignment_3\obj\Debug\Assignment_3.exe
+E:\Medusind\CSharp\Assignment_3\Assignment_3\obj\Debug\Assignment_3.pdb
