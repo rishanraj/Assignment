@@ -1,0 +1,8 @@
+E:\Medusind\CSharp\MiniProject\MiniProject\bin\Debug\MiniProject.exe.config
+E:\Medusind\CSharp\MiniProject\MiniProject\bin\Debug\MiniProject.exe
+E:\Medusind\CSharp\MiniProject\MiniProject\bin\Debug\MiniProject.pdb
+E:\Medusind\CSharp\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.AssemblyReference.cache
+E:\Medusind\CSharp\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.SuggestedBindingRedirects.cache
+E:\Medusind\CSharp\MiniProject\MiniProject\obj\Debug\MiniProject.csproj.CoreCompileInputs.cache
+E:\Medusind\CSharp\MiniProject\MiniProject\obj\Debug\MiniProject.exe
+E:\Medusind\CSharp\MiniProject\MiniProject\obj\Debug\MiniProject.pdb
