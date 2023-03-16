@@ -1,0 +1,8 @@
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\bin\Debug\Linq_Assignment.exe.config
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\bin\Debug\Linq_Assignment.exe
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\bin\Debug\Linq_Assignment.pdb
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.csproj.AssemblyReference.cache
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.csproj.SuggestedBindingRedirects.cache
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.csproj.CoreCompileInputs.cache
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.exe
+E:\Medusind\Linq\Linq_Assignment\Linq_Assignment\obj\Debug\Linq_Assignment.pdb
